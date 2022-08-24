@@ -5,3 +5,7 @@
 touch README.md 
 Adds a README file to the directory
 ```
+
+- [x] Follow the GitHub tutorial
+- [x] Use Markdown to edit a file
+- [ ] Finish all listed steps
